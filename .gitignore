@@ -1,0 +1,20 @@
+face_recognition/myDataset/
+mask_detection/checkpoints/
+ML/zadatci/checkpoints_gtsrb_cnn_aug/
+ML/zadatci/gtsrb_dataset/
+ML/zadatci/logs/
+ML/zadatci/archive.zip
+projekt/mediapipe/
+projekt/pose_mediapipe/
+projekt/TensorFlow/
+
+#files for project detekcijaOdjece
+projekt/detekcijaOdjece/fashion-dataset/
+projekt/detekcijaOdjece/images_compressed/
+projekt/detekcijaOdjece/images_original/
+projekt/detekcijaOdjece/images.cvs
+
+#files for objectdetection
+projekt/objectdetection/RealTimeObjectDetection/Tensorflow/
+projekt/objectdetection/RealTimeObjectDetection/Tutorial.ipynb
+
